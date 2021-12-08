@@ -1,0 +1,17 @@
+
+.p1 {border: 1px solid yellow ;}
+
+.p2{
+    color: red;
+}
+
+.removeUnderline 
+{
+    text-decoration:none;
+}
+
+.image
+{
+ float: right;
+
+}
