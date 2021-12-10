@@ -15,3 +15,30 @@
  float: right;
 
 }
+.CrTable,td
+{
+    /*width: 100%;*/
+        border: 1px solid black;
+}
+
+.Eve
+{
+    width: 100%;
+    border: 1px solid black;
+}
+
+.CAPTION
+{
+    display: table-caption;
+    text-align: center;
+
+/*text-decoration-color: blueviolet;*/
+color: red ;
+
+}
+
+.row1
+{
+    text-emphasis-color: solid green;
+background-color: green;
+}
